@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suger3
-- 👀 I’m interested in bioinfornatics
+- 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning bilogy and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
